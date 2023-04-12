@@ -7,7 +7,7 @@ Climate data analysis and visualization has become a crucial aspect of climate r
 The course will provide learners with an introduction to key Python packages and tools used in climate data analysis and visualization, including NumPy, Pandas, Matplotlib, Xarray, Cartopy, and GeoPandas etc. 
 
 ## Contents 
-### 1) Introduction to Python and it's ecosystem [bnbbb](https://github.com/YonSci/Python-Training-for-Climate-Data-Analysis/blob/d08a67599cf14ef8010361dd721608a93bd85ad3/01_Day/Python_Training1.html)
+### 1) Introduction to Python and it's ecosystem
 ### 2) NumPy
 ### 3) Pandas
 ### 4) Matplotlib
